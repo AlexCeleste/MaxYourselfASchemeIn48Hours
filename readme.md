@@ -12,6 +12,8 @@ Apart from the parser - which uses the declarative [TMeta framework](https://git
 
 The project is split up into chapters, each one incrementally implementing a more complete version of the Scheme interpreter, much like the original. Each one should accompany a prose chapter... like the original. Rewriting these prose chapters for BlitzMax remains to be done.
 
+The final, complete version of the interpreter is available as SchemeArchived.bmx, if you want to try actually running the thing before working through the chapters.
+
 
 This project is licensed as [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) under the terms of the original book.  
 Original BlitzMax code is copyright (c) Alex "Yasha" Gilding, 2014-.

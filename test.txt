@@ -1,0 +1,4 @@
+(define (f) (print "Hello World!") #t)
+(define (g) (print "Goodbye World!") #f)
+(f)
+(g)
